@@ -43,7 +43,7 @@ hi StatusLineNC              guifg=#585858 guibg=#303030 gui=NONE ctermfg=240 ct
 " Folds
 " -----
 " line used for closed folds
-hi Folded                    guifg=#ffffff guibg=#444444 gui=NONE ctermfg=15 ctermbg=238 cterm=NONE
+hi Folded                    guifg=#838383 guibg=#121212 gui=NONE ctermfg=15 ctermbg=238 cterm=NONE
 hi! link FoldColumn SignColumn
 
 " Invisible Characters
